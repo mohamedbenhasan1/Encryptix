@@ -17,7 +17,7 @@ This project implements an AI agent that plays the classic game of Tic-Tac-Toe a
  . Clone the repository or download the script:
 
 ```bash
-git clone https://github.com/mohamedbenhasan1/Task_3.git
+git clone https://github.com/mohamedbenhasan1/Encryptix/Task_3.git
 ```
 No additional libraries are required.
 ## Usage
@@ -42,3 +42,5 @@ The game continues until there is a winner or a draw.
 - The human player is 'X' and the AI is 'O'.
 - The minimax function recursively evaluates the board to determine the best possible move for the AI.
 - The game checks for wins, losses, and draws after each move.
+## Author
+Mohamed Benhasan
