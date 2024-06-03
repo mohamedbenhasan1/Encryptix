@@ -42,5 +42,14 @@ The game continues until there is a winner or a draw.
 - The human player is 'X' and the AI is 'O'.
 - The minimax function recursively evaluates the board to determine the best possible move for the AI.
 - The game checks for wins, losses, and draws after each move.
+## License
+
+All Rights Reserved. No part of this project may be reproduced, distributed, or modified in any form or by any means without the prior written permission of the project owner.
+
+For inquiries regarding licensing or use permissions, please contact [medbenhasan@gmail.com].
 ## Author
-Mohamed Benhasan
+
+- **Author Name:** Mohamed Benhasan
+- **Email:** medbenhasan@gmail.com
+- **LinkedIn:** [Mohamed Benhasan](https://www.linkedin.com/in/mohamed-benhasan-58a78b28a/)
+- **GitHub:** [Mohamed Benhasan](https://github.com/mohamedbenhasan1)
