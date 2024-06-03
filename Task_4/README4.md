@@ -45,9 +45,16 @@ You can download the dataset from the ` MovieLens dataset `. For simplicity, thi
 3. Calculate Similarity: Cosine similarity is calculated between users to create a user similarity matrix.
 
 4. Generate Recommendations: For a given user, the system finds the most similar users and recommends movies based on the average ratings given by these similar users.
-## License
-This project is licensed under the MIT License.
 ## Acknowledgements
 This project uses the MovieLens dataset provided by GroupLens.
+## License
+
+All Rights Reserved. No part of this project may be reproduced, distributed, or modified in any form or by any means without the prior written permission of the project owner.
+
+For inquiries regarding licensing or use permissions, please contact [medbenhasan@gmail.com].
 ## Author
-Mohamed Benhasan
+
+- **Author Name:** Mohamed Benhasan
+- **Email:** medbenhasan@gmail.com
+- **LinkedIn:** [Mohamed Benhasan](https://www.linkedin.com/in/mohamed-benhasan-58a78b28a/)
+- **GitHub:** [Mohamed Benhasan](https://github.com/mohamedbenhasan1)
