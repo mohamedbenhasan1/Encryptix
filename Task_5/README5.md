@@ -24,7 +24,7 @@ pip install opencv-python
 ## Usage
 1. Clone the repository or download the script:
 ```bash
-git clone https://github.com/mohamedbenhasan1/Task_5.git
+git clone https://github.com/mohamedbenhasan1/Encryptix/Task_5.git
 ```
 2. Run the script:
 ```bash
@@ -53,3 +53,5 @@ Enter the path to the video file (e.g., C:\Users\Mohamed Benhasan\Videos\video1.
 - Ensure the provided paths are correct and the files exist.
 - The program will display detected faces in real-time for videos and show the image with detected faces for images.
 - Press 'q' to quit the video window when using the webcam or video file.
+## Author
+Mohamed Benhasan
