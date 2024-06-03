@@ -14,7 +14,7 @@ git clone https://github.com/mohamedbenhasan1/Task_1.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd chatboot
+cd Task_1
 ```
 3. Run the chatbot:
 ```bash
