@@ -24,7 +24,7 @@ cd Task_4
 ```bash
 pip install pandas numpy scikit-learn
 ```
-5. 
+4.  
 ## Dataset
 The dataset used in this project consists of two CSV files:
 
