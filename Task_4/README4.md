@@ -24,7 +24,10 @@ cd Task_4
 ```bash
 pip install pandas numpy scikit-learn
 ```
-4.  
+4. Run the script:
+```bash
+python Rsys.py
+```
 ## Dataset
 The dataset used in this project consists of two CSV files:
 
