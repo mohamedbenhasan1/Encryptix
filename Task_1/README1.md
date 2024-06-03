@@ -32,5 +32,14 @@ Chatbot: Mohamed Benhasan is an Industrial Computer Engineering student in ENET'
 You: Goodbye
 Chatbot: Goodbye! Have a great day!
 ```
+## License
+
+All Rights Reserved. No part of this project may be reproduced, distributed, or modified in any form or by any means without the prior written permission of the project owner.
+
+For inquiries regarding licensing or use permissions, please contact [medbenhasan@gmail.com].
 ## Author
-Mohamed Benhasan
+
+- **Author Name:** Mohamed Benhasan
+- **Email:** medbenhasan@gmail.com
+- **LinkedIn:** [Mohamed Benhasan](https://www.linkedin.com/in/mohamed-benhasan-58a78b28a/)
+- **GitHub:** [Mohamed Benhasan](https://github.com/mohamedbenhasan1)
