@@ -24,11 +24,11 @@ pip install opencv-python
 ## Usage
 1. Clone the repository or download the script:
 ```bash
-git clone https://github.com/yourusername/face-detection-app.git
-cd face-detection-app
+git clone https://github.com/mohamedbenhasan1/Task_5.git
 ```
 2. Run the script:
 ```bash
+cd Task_5
 python facedetect.py
 ```
 3. Choose the input type:
