@@ -53,5 +53,14 @@ Enter the path to the video file (e.g., C:\Users\Mohamed Benhasan\Videos\video1.
 - Ensure the provided paths are correct and the files exist.
 - The program will display detected faces in real-time for videos and show the image with detected faces for images.
 - Press 'q' to quit the video window when using the webcam or video file.
+## License
+
+All Rights Reserved. No part of this project may be reproduced, distributed, or modified in any form or by any means without the prior written permission of the project owner.
+
+For inquiries regarding licensing or use permissions, please contact [medbenhasan@gmail.com].
 ## Author
-Mohamed Benhasan
+
+- **Author Name:** Mohamed Benhasan
+- **Email:** medbenhasan@gmail.com
+- **LinkedIn:** [Mohamed Benhasan](https://www.linkedin.com/in/mohamed-benhasan-58a78b28a/)
+- **GitHub:** [Mohamed Benhasan](https://github.com/mohamedbenhasan1)
