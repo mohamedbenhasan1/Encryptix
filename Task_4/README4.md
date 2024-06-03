@@ -14,7 +14,7 @@ This project is a simple Movie Recommendation System using Collaborative Filteri
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/mohamedbenhasan1/Task_4.git
+git clone https://github.com/mohamedbenhasan1/Encryptix/Task_4.git
 ```
 2. Navigate to the project directory:
 ```bash
@@ -49,3 +49,5 @@ You can download the dataset from the ` MovieLens dataset `. For simplicity, thi
 This project is licensed under the MIT License.
 ## Acknowledgements
 This project uses the MovieLens dataset provided by GroupLens.
+## Author
+Mohamed Benhasan
