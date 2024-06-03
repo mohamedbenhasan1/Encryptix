@@ -10,7 +10,7 @@ This is a simple rule-based chatbot designed to assist with user queries.
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/mohamedbenhasan1/Task_1.git
+git clone https://github.com/mohamedbenhasan1/Encryptix/Task_1.git
 ```
 2. Navigate to the project directory:
 ```bash
@@ -32,3 +32,5 @@ Chatbot: Mohamed Benhasan is an Industrial Computer Engineering student in ENET'
 You: Goodbye
 Chatbot: Goodbye! Have a great day!
 ```
+## Author
+Mohamed Benhasan
