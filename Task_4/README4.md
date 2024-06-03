@@ -14,16 +14,17 @@ This project is a simple Movie Recommendation System using Collaborative Filteri
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/movierecommendation.git
+git clone https://github.com/yourusername/Task_4.git
 ```
- 2. Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
-cd movierecommendation
+cd Task_4
 ```
-   3. Install the required packages:
+3. Install the required packages:
 ```bash
 pip install pandas numpy scikit-learn
 ```
+5. 
 ## Dataset
 The dataset used in this project consists of two CSV files:
 
